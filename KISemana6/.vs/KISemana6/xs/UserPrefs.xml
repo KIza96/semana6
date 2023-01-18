@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D41051D7-4531-48BF-86E2-AB6E7F9DD646}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KISemana6/KISemana6/MainPage.xaml">
+    <Files>
+      <File FileName="KISemana6/KISemana6/MainPage.xaml.cs" />
+      <File FileName="KISemana6/KISemana6/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KISemana6" expanded="True">
+            <Node name="KISemana6" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KISemana6.Android PreferredExecutionTarget="Android.pixel_5_-_api_27" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.KISemana6.iOS FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_27" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.KISemana6 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

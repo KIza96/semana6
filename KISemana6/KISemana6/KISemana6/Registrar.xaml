@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="KISemana6.Registrar">
+    <ContentPage.Content>
+            <StackLayout>
+            <Label Text="Registro" FontSize="20" HorizontalTextAlignment="Center"/>
+            <Entry x:Name="txtId" Placeholder="Id" Keyboard="Numeric"/>
+            <Entry x:Name="txtnombre" Placeholder="Nombre"/>
+            <Entry x:Name="txtApellido" Placeholder="Apellido"/>
+             <Entry x:Name="txtEdad" Placeholder="Edad" Keyboard="Numeric"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions> 
+                <Button x:Name="bntInsertar" Text="Insertar" Grid.Row="0" Grid.Column="0" Clicked="bntInsertar_Clicked"/>
+                <Button x:Name="bntRegresar" Text="Regresar" Grid.Row="0" Grid.Column="1" Clicked="bntRegresar_Clicked" />
+
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
